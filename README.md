@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
 ## Depth-First Search
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
