@@ -13,4 +13,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
