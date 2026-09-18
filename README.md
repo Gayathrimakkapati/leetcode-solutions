@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,14 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
