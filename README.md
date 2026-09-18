@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
