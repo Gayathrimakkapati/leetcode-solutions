@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
