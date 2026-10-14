@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
