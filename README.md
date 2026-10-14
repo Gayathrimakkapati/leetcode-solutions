@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Binary Search
 |  |
 | ------- |
