@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Gayathrimakkapati/leetcode-solutions/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
